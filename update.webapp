@@ -1,0 +1,9 @@
+{
+  "name" : "こねたもの時計",
+  "description": "時計でもこねたもの",
+  "developer": { "name": "Jecy" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "icons/128.png"
+  }
+}
